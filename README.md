@@ -1,4 +1,5 @@
-STUDENT README SECTION
+Did this for uni, thought it was worth putting on my github, half of the code is spaghetti
+
 
 
 - HOW TO RUN CODE
@@ -33,10 +34,6 @@ STUDENT README SECTION
     - Used in Memento.java 
   - Prototype Pattern
     - Used in GameEngineImpl, GameWindow, LevelImpl, DynamicEntityImpl, ControllableDynamicEntity, StaticEntityImpl
-    
-    Enjoyed writing this assingment :)
-    Didnt do the test cases, ran out of time and theyre only worth 5% and 75% coverage is marked the same as 0% 
-  so if I get up to 75% before the due date it was basically worthless in the eyes of the marker
 
 
 
