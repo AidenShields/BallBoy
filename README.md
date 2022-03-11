@@ -1,7 +1,3 @@
-Did this for uni, thought it was worth putting on my github, half of the code is spaghetti
-
-
-
 - HOW TO RUN CODE
   - Type Gradle Run in
 
